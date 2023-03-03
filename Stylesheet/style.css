@@ -132,3 +132,51 @@ ul {
     color: white;
     padding: 30px 20px;
 }
+
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 50px 0px 50px;
+    background-color: black;
+    color: white;
+    padding: 100px 150px;
+}
+
+.footer-image-btn-section{
+    display: flex;
+    background-color: black;
+ 
+}
+
+.image-size{
+    height: 47px;
+    width: 47px;;
+    padding: 10px 50px;
+
+    display: flex;
+    justify-content: center; /* center the images horizontally */
+    align-items: center; /* center the images vertically */
+    gap: 10px;
+}
+
+.email-input{
+    height: 65px;
+    width: 325px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+   
+
+}
+
+.primary-btn-footer{
+    height: 64px;
+    border-radius: 5px;
+    background-color: rgb(38, 38, 211);
+    color: white;
+    padding: 15px 35px;
+    border: 10px white;
+    font-size: 18px;
+    margin:30px 10px;
+    font-weight: bold;
+}
